@@ -1,3 +1,5 @@
 .pio/**
 .vscode/**
 lib/testing/src/testing.cpp
+*test_logs*
+build_tests.py
